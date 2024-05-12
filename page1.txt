@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hydrometeorological Hazards</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Light gray background */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #3CB371; /* Medium sea green header */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        nav {
+            background-color: #90EE90; /* Light green navigation */
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            color: #000;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            text-align: justify;
+        }
+        footer {
+            background-color: #3CB371; /* Medium sea green footer */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+
+<body>
+    <header>
+        <h1>EnviroCare</h1>
+        <p>Caring for our planet, one step at a time</p>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+    <section>
+        <h2>Welcome to EnviroCare</h2>
+        <p>At EnviroCare, we're committed to preserving and protecting our environment. Through sustainable practices and eco-friendly solutions, we aim to make a positive impact on the planet.</p>
+        <p>Explore our website to learn more about our mission, services, and how you can join us in making a difference!</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 EnviroCare. All rights reserved.</p>
+    </footer>
+</body>
+</html>
